@@ -1,0 +1,13 @@
+{
+    "title": "Gonzales CSSP Usage",
+    "createDate": "03-10-2012",
+    "editDate": "",
+    "summary": "Gonzales CSSP usage.",
+    "thumbnail": "",
+    "authors": ["kryzhanovsky-sergey"],
+    "tags": ["tools", "css"],
+    "categories": [{"name": "Parsers/Gonzales", "url": "parsers/gonzales", "order": "40/20"}],
+    "translators": [],
+    "url": "/doc/CSSP.USAGE/",
+    "type": "tools"
+}
