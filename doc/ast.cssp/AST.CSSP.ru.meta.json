@@ -1,0 +1,13 @@
+{
+    "title": "Описание CSSP AST",
+    "createDate": "03-10-2012",
+    "editDate": "",
+    "summary": "Описание CSSP AST.",
+    "thumbnail": "",
+    "authors": ["kryzhanovsky-sergey"],
+    "tags": ["tools", "css"],
+    "categories": [{"name": "Парсеры/Gonzales", "url": "parsers/gonzales", "order": "40/20"}],
+    "translators": [],
+    "url": "/doc/AST.CSSP/",
+    "type": "tools"
+}
