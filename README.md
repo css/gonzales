@@ -1,3 +1,8 @@
+> DEPRECATED: project is outdated and doesn't maintain for a while. Alternatives:
+> - If you interested in gonzales, take a look at [gonzales-pe](https://github.com/tonyganch/gonzales-pe), this is a fork of gonzales with post processors support (sass, less) and other improvements.
+> - We also recommend looking at [CSSTree](https://github.com/csstree/csstree), which began as refactoring of gonzales, but later became a brand new solution for parsing and processing CSS.
+> - If you are looking for the fastest parser, see [the CSS parsers benchmark](https://github.com/postcss/benchmark#parsers) by PostCSS team to choose your favourite one.
+
 # 1. Description
 
 Gonzales — fast CSS parser.
